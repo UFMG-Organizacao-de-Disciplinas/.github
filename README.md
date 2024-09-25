@@ -35,6 +35,9 @@ Departamento de Ciência da Computação (DCC) - UFMG
 
 ## To-Do List
 
+- [ ] Criar um arquivo `README.md` para cada disciplina.
+- [ ] Adicionar repositórios de todas as disciplinas
+
 ## Disciplina
 
 | Código  | Nome da Disciplina                                                      | Ano de oferta |
