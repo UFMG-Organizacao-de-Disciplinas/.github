@@ -1,2 +1,6 @@
-# .github
-Criando o README da Organização
+# Organização de Disciplinas UFMG
+
+## Informações Importantes
+
+...
+
