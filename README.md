@@ -35,6 +35,82 @@ Departamento de Ciência da Computação (DCC) - UFMG
 
 ## To-Do List
 
+## Disciplina
+
+| Código  | Nome da Disciplina                                                      | Ano de oferta |
+| :-----: | :---------------------------------------------------------------------- | ------------: |
+| DCC-807 | Programação Linear                                                      |               |
+| DCC-808 | Programação Não Linear                                                  |               |
+| DCC-808 | Programação Não-Linear                                                  |               |
+| DCC-816 | Sistemas Operacionais                                                   |               |
+| DCC-819 | Arquitetura de Computadores                                             |               |
+| DCC-823 | Engenharia de Software                                                  |               |
+| DCC-831 | TECC: Advanced topics in algebraic combinatorics                        |        2024.2 |
+| DCC-831 | TECC: Algoritmos de Aprendizado Profundo                                |        2024.2 |
+| DCC-831 | TECC: Bancos de Dados Geográficos e Ciência de Dados Geoespaciais       |        2024.2 |
+| DCC-831 | TECC: Blockchain e criptomoedas: conceitos básicos e avançados          |        2024.2 |
+| DCC-831 | TECC: Cibersegurança                                                    |        2024.2 |
+| DCC-831 | TECC: Cloud Computing                                                   |        2024.2 |
+| DCC-831 | TECC: Combinatória Poliédrica                                           |        2024.2 |
+| DCC-831 | TECC: Computação Natural                                                |        2024.2 |
+| DCC-831 | TECC: Gerenciamento das Redes de Computadores e dos Serviços            |        2024.2 |
+| DCC-831 | TECC: Heurísticas e Metaheurísticas                                     |        2024.2 |
+| DCC-831 | TECC: Introdução à combinatória extremal e probabilística               |        2024.2 |
+| DCC-831 | TECC: Métodos quantiativos em Ciência Experimental                      |        2024.2 |
+| DCC-831 | TECC: Processamento de Língua Natural                                   |        2024.2 |
+| DCC-831 | TECC: Seminários em Governança e Auditoria Algorítmica                  |        2024.2 |
+| DCC-831 | TECC: Seminários em Recuperação da Informação e Computação Social       |        2024.2 |
+| DCC-831 | TECC: Sistemas de Informação Biomédicos                                 |        2024.2 |
+| DCC-831 | TECC: Sistemas de Recomendação                                          |        2024.2 |
+| DCC-831 | TECC: Teoria dos Grafos                                                 |        2024.2 |
+| DCC-831 | TECC: Theory and Practice of SMT solving                                |        2024.2 |
+| DCC-831 | Tópicos Especiais em Ciência da Computação                              |               |
+| DCC-832 | Análise de Filas                                                        |               |
+| DCC-833 | Otimização em Redes                                                     |               |
+| DCC-837 | Programação Paralela                                                    |               |
+| DCC-839 | Redes de Computadores                                                   |               |
+| DCC-842 | Bancos de Dados                                                         |               |
+| DCC-845 | Inteligência Artificial                                                 |               |
+| DCC-849 | Teoria dos Grafos                                                       |               |
+| DCC-849 | Tópicos em Redes de Computadores                                        |               |
+| DCC-851 | TECC: Introdução à Verificação de Hardware                              |        2024.2 |
+| DCC-851 | TECC: Seminários Avançados em Grandes Modelos de Linguagem — Eficiência |        2024.2 |
+| DCC-851 | Tópicos Especiais em Ciência da Computação                              |               |
+| DCC-852 | Tópicos Especiais em Ciência da Computação                              |               |
+| DCC-865 | Projeto e Análise de Algoritmos                                         |               |
+| DCC-865 | Projeto e Análise de Algoritmos                                         |        2024.2 |
+| DCC-865 | Projeto e Análise de Algoritmos                                         |        2024.2 |
+| DCC-868 | Processamento Digital de Imagens                                        |               |
+| DCC-872 | Análise e Modelagem de Desempenho de Sistemas de Computação             |               |
+| DCC-874 | Teoria de Linguagens                                                    |               |
+| DCC-878 | Fundamentos Teóricos da Computação                                      |               |
+| DCC-879 | Engenharia de Sistemas Gráficos                                         |               |
+| DCC-880 | Semântica Formal                                                        |               |
+| DCC-881 | Síntese Lógica de Circuitos Digitais                                    |               |
+| DCC-882 | Otimização Combinatória                                                 |               |
+| DCC-883 | Robótica                                                                |               |
+| DCC-884 | Visão Computacional                                                     |               |
+| DCC-885 | Bancos de Dados Distribuídos                                            |               |
+| DCC-886 | Compiladores                                                            |               |
+| DCC-887 | Projeto de Circuitos Integrados                                         |               |
+| DCC-888 | Tópicos em Compiladores                                                 |               |
+| DCC-889 | Tópicos em Bancos de Dados                                              |               |
+| DCC-890 | TECC: Manutenção e Evolução de Software                                 |        2024.2 |
+| DCC-890 | TES: Engenharia de Software Experimental                                |        2024.2 |
+| DCC-890 | Tópicos em Engenharia de Software                                       |               |
+| DCC-891 | Tópicos em Inteligência Artific                                         |               |
+| DCC-892 | Tópicos em Linguagens de Programação                                    |               |
+| DCC-893 | Tópicos em Otimização                                                   |               |
+| DCC-895 | Tópicos em Sistemas de Computação                                       |               |
+| DCC-896 | Tópicos em Multimídia                                                   |               |
+| DCC-897 | Tópicos em Processamento Digital de Imagens                             |               |
+| DCC-898 | Tópicos em Sistema Integrado de Hardware e Software                     |               |
+| DCC-899 | Tópicos em Percepção Ativa e Robótica                                   |               |
+| DCC-904 | Estágio em Docência I                                                   |        2024.2 |
+| DCC-905 | Estágio em Docência II                                                  |        2024.2 |
+| DCC-909 | Ambientes em Computação                                                 |        2024.2 |
+| DCC-917 | Mineração de Dados                                                      |        2024.2 |
+
 ## Professores
 
 [LinkWhatsApp]:     https://wa.me/5522999599065?text=Me+convida+para+a+organiza%C3%A7%C3%A3o+%22Conte%C3%BAdo+de+Disciplinas%22+no+GitHub%2C+por+favor%3F+Meu+usu%C3%A1rio+no+GitHub+%C3%A9...
