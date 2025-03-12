@@ -14,6 +14,11 @@ Esta organização visa disponibilizar conteúdos de disciplinas da UENF de form
 [LinkPPGCC]: https://ppgcc.dcc.ufmg.br/
 [LinkUFMG]: https://ufmg.br/
 
+## WhatsApp
+
+- Existe uma comunidade de disciplinas no WhatsApp, caso deseje participar, acesse [aqui](https://chat.whatsapp.com/GwVNekXvTp1K4btPQE8H3l). Porém suponho que a prioridade sejam as turmas pra galera da graduação. Pra galera da pós, existe [esta planilha no Google Sheets](https://docs.google.com/spreadsheets/d/1M_M4CkH2lZ9Ycs_uIIw36c2XbEvAW2OCJ_PHySkDygg/edit?gid=1871991767#gid=1871991767).
+- Também existe um grupo dos discentes da pós, que é [este aqui](https://chat.whatsapp.com/EexgBkcKrnEGlknJbA2GoQ).
+
 ## Mensagem do GitHub
 
 Embora a Representação Discente do PPGCC já tenha disponibilizado alguns materiais no Google Drive, suponho eu que o GitHub possa ter um perfil mais facilmente colaborativo.
